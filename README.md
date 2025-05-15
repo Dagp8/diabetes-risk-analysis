@@ -49,3 +49,31 @@ The analysis demonstrates a typical data science workflow: from data exploration
 
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)  
 It contains synthetic health records created based on the 2015 BRFSS survey.
+
+
+
+## How to Use
+
+1. Clone this repository:
+
+```
+git clone https://github.com/Dagp8/diabetes-risk-analysis.git
+```
+
+2. Open the notebook:
+
+- Use Jupyter Notebook (Anaconda) or Jupyter Lab.
+- Run the cells step by step.
+
+3. Requirements:
+
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
+
+
+
+
+
+
